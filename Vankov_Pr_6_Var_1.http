@@ -1,0 +1,6 @@
+@Vankov_Pr_6_Var_1_HostAddress = http://localhost:5014
+
+GET {{Vankov_Pr_6_Var_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

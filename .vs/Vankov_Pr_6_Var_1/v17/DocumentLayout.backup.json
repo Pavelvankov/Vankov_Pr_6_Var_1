@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|c:\\users\\st310-07\\music\\vankov\\vankov_pr_6_var_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|c:\\users\\st310-07\\music\\vankov\\vankov_pr_6_var_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|c:\\users\\st310-07\\music\\vankov\\vankov_pr_6_var_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|c:\\users\\st310-07\\music\\vankov\\vankov_pr_6_var_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|c:\\users\\st310-07\\music\\vankov\\vankov_pr_6_var_1\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131D0CD6-DD36-42CD-846A-9C8558313ABA}|Vankov_Pr_6_Var_1.csproj|solutionrelative:models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswHMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:10:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:08:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T07:58:41.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Models\\WebApiDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\WebApiDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Models\\WebApiDatabaseContext.cs",
+              "RelativeToolTip": "Models\\WebApiDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:58:28.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\st310-07\\Music\\Vankov\\Vankov_Pr_6_Var_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:56:39.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
